@@ -1,5 +1,5 @@
 arangodb.hosts: localhost
 arangodb.database: sample
 arangodb.maxconnections: 10
-arangodb.usessl: true
+arangodb.usessl: false
 logging.level.org.springframework.web: DEBUG
